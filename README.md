@@ -5,5 +5,4 @@
 
 ### Procedura instalacji apki:
 1. Skopiuj mnie lokalnie na komputer
-
 2.Uruchom plik ```index.html``` w przeglądarce
